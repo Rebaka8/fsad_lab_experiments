@@ -98,7 +98,7 @@ The interface contains:
 
 ### 1. Initial Student List
 
-![Initial Students](screenshots/initial_sl.png)
+![Initial Students](screenshots/intial_sl.png)
 
 ---
 
