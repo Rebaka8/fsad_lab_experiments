@@ -1,0 +1,39 @@
+-> Experiment Title:
+
+Version Control Using Git and GitHub
+
+-> Aim:
+
+To simulate a real-world version control workflow using Git and GitHub by creating branches, committing changes, merging branches, and resolving merge conflicts.
+
+-> Software Used :
+
+Git
+
+GitHub
+
+Java (JDK)
+
+Command Line Interface
+
+-> Procedure:
+
+1. Created a project folder and initialized Git using git init.
+
+2. Configured Git with username and email.
+
+3. Created Java project files and committed them to the repository.
+
+4. Created a remote GitHub repository and pushed local commits.
+
+5. Created a feature branch to add task completion functionality.
+
+6. Created a bug-fix branch to handle invalid user input.
+
+7. Merged both branches into the main branch.
+
+8. Resolved merge conflicts manually and committed the final changes.
+
+-> Result :
+
+Successfully implemented Git branching, merging, and conflict resolution while managing a Java project collaboratively.
